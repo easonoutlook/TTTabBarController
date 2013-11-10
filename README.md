@@ -5,12 +5,12 @@ An TabBarController, customised by iOS5 SDKs, simple, total system APIs. TT is f
 
 ##ScreenShot
 ###screenshot1
-![Alt text](https://github.com/easonoutlook/TTTabBarController/blob/master/ScreenShot/1.png "ScreenShot1")
+![Alt text](https://raw.github.com/easonoutlook/TTTabBarController/master/ScreenShot/1.png "ScreenShot1")
 
 ###screenshot2
-![Alt text](https://github.com/easonoutlook/TTTabBarController/blob/master/ScreenShot/2.png "ScreenShot2")
+![Alt text](https://raw.github.com/easonoutlook/TTTabBarController/master/ScreenShot/2.png "ScreenShot2")
 
 ###screenshot3
-![Alt text](https://github.com/easonoutlook/TTTabBarController/blob/master/ScreenShot/3.png "ScreenShot3")
+![Alt text](https://raw.github.com/easonoutlook/TTTabBarController/master/ScreenShot/3.png "ScreenShot3")
 
 
